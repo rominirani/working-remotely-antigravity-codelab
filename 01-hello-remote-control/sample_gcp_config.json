@@ -1,0 +1,7 @@
+{
+  "project_id": "acme-commerce-dev",
+  "region": "us-central1",
+  "cloud_run_service": "checkout-api-dev",
+  "firestore_database": "(default)",
+  "cloud_storage_bucket": "gs://acme-checkout-receipts-dev"
+}

@@ -1,0 +1,10 @@
+registration_id,full_name,email,company,ticket_type,status,dietary_preference
+REG-101,Priya Sharma,priya.sharma@finserve.io,FinServe Global,VIP,Confirmed,Vegetarian
+REG-102,Marcus Vance,marcus.vance@cloudscale.dev,CloudScale Labs,Speaker,Confirmed,Standard
+REG-103,Priya Sharma,priya.sharma@finserve.io,FinServe Global,VIP,Confirmed,Vegetarian
+REG-104,Elena Rostova,elena.rostova@meditech.org,MediTech Health,VIP,Confirmed,Gluten-Free
+REG-105,David Kim,david.kim@nextgenretail.com,NextGen Retail,General,Confirmed,Standard
+REG-106,Alex Rivera,alex.rivera@retailcorp.com,RetailCorp,General,Cancelled,Vegan
+REG-107,Sarah Jenkins,sarah.jenkins@logiflow.io,LogiFlow Systems,Speaker,Confirmed,Vegan
+REG-108,Liam O'Connor,liam.oconnor@buildright.co,BuildRight Inc,General,Confirmed,Vegetarian
+REG-109,Mei Lin,mei.lin@datapulse.ai,DataPulse AI,General,Confirmed,Standard
